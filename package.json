@@ -1,0 +1,16 @@
+{
+  "name": "ryze-cli",
+  "version": "1.0.0",
+  "description": "how cli",
+  "bin": {
+    "ryze": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lizhongwei157@163.com",
+  "license": "ISC",
+  "dependencies": {
+    "easywebpack-cli": "^4.8.0"
+  }
+}
