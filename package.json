@@ -10,8 +10,9 @@
   },
   "author": "lizhongwei157@163.com",
   "license": "ISC",
-  "dependencies": {},
-  "devDependencies": {
-    "@easy-team/easywebpack-cli": "^4.5.2"
-  }
+  "dependencies": {
+    "@easy-team/easywebpack-cli": "^4.5.2",
+    "html-webpack-alter-plugin": "0.0.5"
+  },
+  "devDependencies": {}
 }
