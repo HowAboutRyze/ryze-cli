@@ -1,6 +1,6 @@
 {
   "name": "ryze-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "how cli",
   "bin": {
     "ryze": "bin/cli.js"
